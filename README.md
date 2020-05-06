@@ -1,3 +1,3 @@
 # Hello-World
-repositpry done by me
+repository done by me
 i thought i was awesome...,.
